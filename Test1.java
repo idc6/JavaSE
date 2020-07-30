@@ -3,18 +3,18 @@ package com.neuedu.test.chapter3;
 public class Test1 {
 
 	public static void main(String[] args) {
-		// ÎÒ²»¹Ü£¬ÎÒ×îË§£¬ÎÒÊÇÄãµÄĞ¡¿É°®
+		// å¥¥åˆ©ç»™
 		int i = 55;
         if (i <= 100 && i >= 90) {
-            System.out.println("³É¼¨ÊÇA");
+            System.out.println("æˆç»©æ˜¯A");
         } else if (i >= 80) {
-            System.out.println("³É¼¨ÊÇB");
+            System.out.println("æˆç»©æ˜¯B");
         } else if (i >= 70) {
-            System.out.println("³É¼¨ÊÇC");
+            System.out.println("æˆç»©æ˜¯C");
         } else if (i >= 60) {
-            System.out.println("³É¼¨ÊÇD");
+            System.out.println("æˆç»©æ˜¯D");
         } else {
-            System.out.println("³É¼¨ÊÇE");
+            System.out.println("æˆç»©æ˜¯E");
         }
 
 	}
